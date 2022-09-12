@@ -15,3 +15,8 @@
 1. This app is built using `react native expo`.
 2. It uses [theMealDB](https://themealdb.com) API.
 3. Routing is done using React Navigation.
+
+## How to run the application
+
+1. Clone or download the repository.
+2. In the cloned / downloaded folder, run `npm install` and then `npx expo start`
