@@ -20,3 +20,7 @@
 
 1. Clone or download the repository.
 2. In the cloned / downloaded folder, run `npm install` and then `npx expo start`
+
+## Known issues
+
+Searching for a dish that does not exist breaks the app.
